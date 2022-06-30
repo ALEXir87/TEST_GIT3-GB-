@@ -6,3 +6,5 @@
 + git checkout branch_name - переход к нужной ветке branch_name
 >Чтобы удалить ненужную ветку branch_name, мы используем команду:
 + git branch -d branch_name - удаление ветки branch_name
+>Чтобы отобразить список созданных веток, мы используем команду:
++ git log --graph - отображение созданных веток
